@@ -1,0 +1,4 @@
+## Title: Simple Loot Logger
+## APIVersion: 10026
+
+SimpleLootLogger.lua
